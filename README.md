@@ -3,7 +3,7 @@
   <li> Formula One</li>
   <li>Reading/Drawing</li>
   <li> Kitties</li>
-  <li> finding someone to play Overcooked with</li>
+  <li> Finding someone to play Overcooked with</li>
   <li> Healing & Personal Growth </li>
   <li>Treating others with Kindess</li>
   <li> Goofs & Gafs, Real Good Belly Laughs</li>
