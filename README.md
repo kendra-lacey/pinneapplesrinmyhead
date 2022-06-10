@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @pinneapplesrinmyhead
-- 👀 I’m interested in 
-- <ul>
+-
+- <ul>👀 Im Interested In
   <li> Formula One</li>
   <li>Reading/Drawing</li>
   <li> Kitties</li>
   <li> finding someone to play Overcooked with</li>
   <li> Healing & Personal Growth </li>
   <li>Treating others with Kindess</li>
-  </ul>
   <li> Goofs & Gafs, Real Good Belly Laughs</li>
+  </ul>
 - 🌱 I’m currently learning  HTML & CSS
 - 📫 How to reach me- smoke signals 
 
